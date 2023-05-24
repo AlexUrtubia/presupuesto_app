@@ -1,0 +1,51 @@
+h5.list-item {
+    margin-left: 15%;
+}
+
+.expense-item.d-flex.justify-content-between.align-items-baseline {
+    width: 38.5vw;
+    margin-left: 8em;
+}
+
+table {
+    /* cellspacing */
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout: fixed;
+    width: 2.5em;
+}
+
+th, td {
+    /* cellpadding */
+    padding: 0;
+}
+
+#pre {
+    border-radius: 12px;
+    border: 2px solid green;
+    padding: 0.9%;
+    background-color: #ebffeb;
+}
+
+#gas {
+    border-radius: 12px;
+    border: 2px solid rgb(151, 2, 2);
+    padding: 0.9%;
+    background-color: #ffd6d6;
+}
+input{
+    background-color: transparent !important;
+    border-color: black;
+}
+button{
+    margin-top: 2%;
+}
+
+#tableSpace{
+    padding-right: 6%;
+    padding-left: 5%;
+}
+
+#title{
+    padding-top: 3%;
+}
